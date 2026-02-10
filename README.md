@@ -4,7 +4,6 @@
 
   <p>
     I am a Computer Science student and software engineer focused on <br>
-@@ -20,34 +20,34 @@
 
   <table border="0">
     <tr>
@@ -39,7 +38,7 @@
         <br><br>
         <a href="https://github.com/Naadish-555/Hello_Ray">
           <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white">
-@@ -63,70 +63,83 @@
+
 
   <table border="0">
     <tr>
