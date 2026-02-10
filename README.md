@@ -63,7 +63,7 @@
 
   <table border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td width="33%" align="center" valign="top">
         <a href="https://kittystoretd.itch.io/kitty-store-tower-defense">
           <h3>Kitty Store: Tower Defense</h3>
         </a>
@@ -77,7 +77,7 @@
             <b>▶️ Play on Itch.io</b>
         </a>
       </td>
-      <td width="50%" align="center" valign="top">
+      <td width="33%" align="center" valign="top">
         <a href="https://naadish.itch.io/sneak2sleep">
           <h3>Sneak 2 Sleep</h3>
         </a>
@@ -94,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td width="33%" align="center" valign="top">
         <a href="https://naadish.itch.io/pathfinder">
           <h3>Pathfinder Visualizer</h3>
         </a>
@@ -108,7 +108,7 @@
             <b>▶️ Play on Itch.io</b>
         </a>
       </td>
-      <td width="50%" align="center" valign="top">
+      <td width="33%" align="center" valign="top">
         <a href="https://mudassir1.itch.io/sumo-baby">
           <h3>Sumo Baby</h3>
         </a>
