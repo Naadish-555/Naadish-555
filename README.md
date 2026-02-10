@@ -23,7 +23,7 @@
       <td width="33%" align="center" valign="top">
         <b>Boids Simulation</b>
         <br><br>
-        <img src="YOUR_BOIDS_GIF_LINK_HERE" alt="Boids" width="200" style="border-radius:5px">
+        <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/Boids_sim.png" alt="Boids" width="200" style="border-radius:5px">
         <br><br>
         Implementation of Reynolds' flocking algorithm. Simulates emergent behavior using Separation, Alignment, and Cohesion rules within a custom engine.
         <br><br>
@@ -34,7 +34,7 @@
       <td width="33%" align="center" valign="top">
         <b>Poly Wars: ECS Engine</b>
         <br><br>
-        <img src="YOUR_POLYWARS_GIF_LINK_HERE" alt="Poly Wars" width="200" style="border-radius:5px">
+        <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/Poly_wars.png" alt="Poly Wars" width="200" style="border-radius:5px">
         <br><br>
         A Geometry Wars clone. Features a custom <b>Entity Component System (ECS)</b> architecture built with C++ and SFML.
         <br><br>
@@ -45,7 +45,7 @@
       <td width="33%" align="center" valign="top">
         <b>Raytracer</b>
         <br><br>
-        <img src="YOUR_RAYTRACER_GIF_LINK_HERE" alt="Raytracer" width="200" style="border-radius:5px">
+        <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/Hello_ray.png" alt="Raytracer" width="200" style="border-radius:5px">
         <br><br>
         A C++ implementation of fundamental ray tracing. Features camera logic, sphere intersection, diffuse shading, and PPM image output.
         <br><br>
