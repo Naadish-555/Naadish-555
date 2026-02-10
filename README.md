@@ -68,7 +68,7 @@
           <h3>Kitty Store: Tower Defense</h3>
         </a>
         <a href="https://kittystoretd.itch.io/kitty-store-tower-defense">
-            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/KSTD.png?raw=true" width="300" style="border-radius:5px">
+            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/KSTD.png?raw=true" width="200" style="border-radius:5px">
         </a>
         <br><br>
         2.5D Tower Defense game with resource management. Features multiple turret types and dynamic enemy wayfinding.
@@ -82,7 +82,7 @@
           <h3>Sneak 2 Sleep</h3>
         </a>
         <a href="https://naadish.itch.io/sneak2sleep">
-            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/S2S.png?raw=true" width="300" style="border-radius:5px">
+            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/S2S.png?raw=true" width="200" style="border-radius:5px">
         </a>
         <br><br>
         <b>Top 5 Finalist (ITM SLS Game Jam)</b><br>
@@ -99,7 +99,7 @@
           <h3>Pathfinder Visualizer</h3>
         </a>
         <a href="https://naadish.itch.io/pathfinder">
-            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/pathfinder.png?raw=true" width="300" style="border-radius:5px">
+            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/pathfinder.png?raw=true" width="200" style="border-radius:5px">
         </a>
         <br><br>
         Visual simulation of search algorithms. Demonstrates the logic of BFS, Dijkstra, and A* pathfinding in a grid.
@@ -113,7 +113,7 @@
           <h3>Sumo Baby</h3>
         </a>
         <a href="https://mudassir1.itch.io/sumo-baby">
-            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/SumoBaby.png?raw=true" width="300" style="border-radius:5px">
+            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/SumoBaby.png?raw=true" width="200" style="border-radius:5px">
         </a>
         <br><br>
         <b>Winner: Global Game Jam 2024 (Mumbai HQ)</b><br>
