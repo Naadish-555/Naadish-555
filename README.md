@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm Nandish </h1>
+  <h1>Hi, I'm Nandish</h1>
 
   <p>
     I am a Computer Science student and software engineer focused on <br>
@@ -20,34 +20,34 @@
 
   <table border="0">
     <tr>
-      <td width="33%" align="center">
+      <td width="33%" align="center" valign="top">
         <b>Boids Simulation</b>
         <br><br>
-        <img src="YOUR_BOIDS_GIF_LINK_HERE" alt="Boids" width="100%">
+        <img src="YOUR_BOIDS_GIF_LINK_HERE" alt="Boids" width="100%" style="border-radius:5px">
         <br><br>
-        A standard implementation of Craig Reynolds' flocking algorithm. Simulates emergent behavior using Separation, Alignment, and Cohesion rules within a custom engine.
+        Implementation of Reynolds' flocking algorithm. Simulates emergent behavior using Separation, Alignment, and Cohesion rules within a custom engine.
         <br><br>
         <a href="https://github.com/Naadish-555/Boids_Sim">
           <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </td>
-      <td width="33%" align="center">
+      <td width="33%" align="center" valign="top">
         <b>Poly Wars: ECS Engine</b>
         <br><br>
-        <img src="YOUR_POLYWARS_GIF_LINK_HERE" alt="Poly Wars" width="100%">
+        <img src="YOUR_POLYWARS_GIF_LINK_HERE" alt="Poly Wars" width="100%" style="border-radius:5px">
         <br><br>
-        A game inspired by geometry wars. Features a custom <b>Entity Component System (ECS)</b> based game engine build with C++ and SFML.
+        A Geometry Wars clone. Features a custom <b>Entity Component System (ECS)</b> architecture built with C++ and SFML.
         <br><br>
         <a href="https://github.com/Naadish-555/Shapez_Warz">
           <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </td>
-      <td width="33%" align="center">
+      <td width="33%" align="center" valign="top">
         <b>Raytracer</b>
         <br><br>
-        <img src="YOUR_RAYTRACER_GIF_LINK_HERE" alt="Raytracer" width="100%">
+        <img src="YOUR_RAYTRACER_GIF_LINK_HERE" alt="Raytracer" width="100%" style="border-radius:5px">
         <br><br>
-        A C++ implementation of a ray tracer that features camera, spheres, shading, and image output in PPM format..
+        A C++ implementation of fundamental ray tracing. Features camera logic, sphere intersection, diffuse shading, and PPM image output.
         <br><br>
         <a href="https://github.com/Naadish-555/Hello_Ray">
           <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -63,56 +63,65 @@
 
   <table border="0">
     <tr>
-      <td width="50%" align="center">
+      <td width="50%" align="center" valign="top">
         <a href="https://kittystoretd.itch.io/kitty-store-tower-defense">
-          <h3> Kitty Store: Tower Defense</h3>
+          <h3>Kitty Store: Tower Defense</h3>
         </a>
         <a href="https://kittystoretd.itch.io/kitty-store-tower-defense">
-            <img src="YOUR_KITTY_THUMBNAIL_HERE" width="90%">
+            <img src="YOUR_KITTY_THUMBNAIL_HERE" width="90%" style="border-radius:5px">
         </a>
         <br><br>
-        A 2.5 D Tower Defense game where players manage resources to defend a store from waves of enemies. Features multiple turret types and enemy wayfinding.
-        <br>
-        <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white">
+        2.5D Tower Defense game with resource management. Features multiple turret types and dynamic enemy wayfinding.
+        <br><br>
+        <a href="https://kittystoretd.itch.io/kitty-store-tower-defense">
+            <b>▶️ Play on Itch.io</b>
+        </a>
       </td>
-      <td width="50%" align="center">
+      <td width="50%" align="center" valign="top">
         <a href="https://naadish.itch.io/sneak2sleep">
-          <h3> Sneak 2 Sleep</h3>
+          <h3>Sneak 2 Sleep</h3>
         </a>
         <a href="https://naadish.itch.io/sneak2sleep">
-            <img src="YOUR_SNEAK_THUMBNAIL_HERE" width="90%">
+            <img src="YOUR_SNEAK_THUMBNAIL_HERE" width="90%" style="border-radius:5px">
         </a>
         <br><br>
         <b>Top 5 Finalist (ITM SLS Game Jam)</b><br>
-        A 2D top down stealth game. Players must navigate a university based environment, outsmart guards, and tiptoe past cameras to reach the objective.
-        <br>
-        <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white">
+        Top-down stealth game. Players must analyze NPC patterns and avoid line-of-sight cones to reach the objective.
+        <br><br>
+        <a href="https://naadish.itch.io/sneak2sleep">
+            <b>▶️ Play on Itch.io</b>
+        </a>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <td width="50%" align="center" valign="top">
         <a href="https://naadish.itch.io/pathfinder">
-          <h3> Pathfinder Visualizer</h3>
+          <h3>Pathfinder Visualizer</h3>
         </a>
         <a href="https://naadish.itch.io/pathfinder">
-            <img src="YOUR_PATHFINDER_THUMBNAIL_HERE" width="90%">
+            <img src="YOUR_PATHFINDER_THUMBNAIL_HERE" width="90%" style="border-radius:5px">
         </a>
         <br><br>
-        A visual simulation of search algorithms. Demonstrates the logic of  BFS, Djikstra and A* pathfinding in a grid-based environment.
-        <br>
-        <img src="https://img.shields.io/badge/Simulation-FF6F00?style=flat-square">
+        Visual simulation of search algorithms. Demonstrates the logic of BFS, Dijkstra, and A* pathfinding in a grid.
+        <br><br>
+        <a href="https://naadish.itch.io/pathfinder">
+            <b>▶️ Play on Itch.io</b>
+        </a>
       </td>
-      <td width="50%" align="center">
+      <td width="50%" align="center" valign="top">
         <a href="https://mudassir1.itch.io/sumo-baby">
-          <h3> Sumo Baby</h3>
+          <h3>Sumo Baby</h3>
         </a>
         <a href="https://mudassir1.itch.io/sumo-baby">
-            <img src="YOUR_SUMO_THUMBNAIL_HERE" width="90%">
+            <img src="YOUR_SUMO_THUMBNAIL_HERE" width="90%" style="border-radius:5px">
         </a>
         <br><br>
-        Created for <b>Global Game Jam 2024 & won at Mumbai HQ</b>. A local multiplayer brawler where  diaper-clad characters push opponents out of an arena.
-        <br>
-        <img src="https://img.shields.io/badge/Game_Jam-F34B7D?style=flat-square">
+        <b>Winner: Global Game Jam 2024 (Mumbai HQ)</b><br>
+        Local multiplayer physics brawler. Players control sumo-themed characters to push opponents out of an arena.
+        <br><br>
+        <a href="https://mudassir1.itch.io/sumo-baby">
+            <b>▶️ Play on Itch.io</b>
+        </a>
       </td>
     </tr>
   </table>
@@ -120,13 +129,17 @@
   <br>
 
   <h2>Technical Arsenal</h2>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/-SFML-8CC445?style=flat-square&logo=sfml&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
+  
+  <p>
+    <b>Languages</b> <br>
+    <code>C++</code> &nbsp; <code>C#</code> &nbsp; <code>C</code> &nbsp; <code>Python</code>
+  </p>
+  
+  <p>
+    <b>Engines & Tools</b> <br>
+    <code>Unity</code> &nbsp; <code>SFML</code> &nbsp; <code>Git</code> &nbsp; <code>OpenGL</code>
+  </p>
+  
   <br><br>
 
 </div>
