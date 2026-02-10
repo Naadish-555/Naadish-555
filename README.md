@@ -4,13 +4,26 @@
 
   <p>
     I am a Computer Science student and software engineer focused on <br>
+    <b>Game Informatics</b>, <b>Computer Graphics</b>, and <b>Real-Time Simulation</b>.
+  </p>
 
-  <table border="0">
+  <p>
+    My work centers on building custom simulation engines and interactive systems. <br>
+    I am interested in the intersection of <b>believable agent behavior</b> (Game AI) and <b>visual phenomena</b> (Graphics), <br>
+    leveraging low-level <b>C++</b> and <b>high-performance computing</b> techniques.
+  </p>
+
+  <br>
+
+  <h2>Engineering & Research Projects</h2>
+  <i>Implementations of fundamental algorithms built from scratch (C++).</i>
+
+  <table border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td width="33%" align="center" valign="top">
         <b>Boids Simulation</b>
         <br><br>
-        <img src="YOUR_BOIDS_GIF_LINK_HERE" alt="Boids" width="100%" style="border-radius:5px">
+        <img src="YOUR_BOIDS_GIF_LINK_HERE" alt="Boids" width="280" style="border-radius:5px">
         <br><br>
         Implementation of Reynolds' flocking algorithm. Simulates emergent behavior using Separation, Alignment, and Cohesion rules within a custom engine.
         <br><br>
@@ -21,7 +34,7 @@
       <td width="33%" align="center" valign="top">
         <b>Poly Wars: ECS Engine</b>
         <br><br>
-        <img src="YOUR_POLYWARS_GIF_LINK_HERE" alt="Poly Wars" width="100%" style="border-radius:5px">
+        <img src="YOUR_POLYWARS_GIF_LINK_HERE" alt="Poly Wars" width="280" style="border-radius:5px">
         <br><br>
         A Geometry Wars clone. Features a custom <b>Entity Component System (ECS)</b> architecture built with C++ and SFML.
         <br><br>
@@ -32,22 +45,30 @@
       <td width="33%" align="center" valign="top">
         <b>Raytracer</b>
         <br><br>
-        <img src="YOUR_RAYTRACER_GIF_LINK_HERE" alt="Raytracer" width="100%" style="border-radius:5px">
+        <img src="YOUR_RAYTRACER_GIF_LINK_HERE" alt="Raytracer" width="280" style="border-radius:5px">
         <br><br>
         A C++ implementation of fundamental ray tracing. Features camera logic, sphere intersection, diffuse shading, and PPM image output.
         <br><br>
         <a href="https://github.com/Naadish-555/Hello_Ray">
           <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
 
+  <br>
 
-  <table border="0">
+  <h2>Interactive Portfolio</h2>
+  <i>Released titles, game jam entries, and simulations.</i>
+
+  <table border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td width="50%" align="center" valign="top">
         <a href="https://kittystoretd.itch.io/kitty-store-tower-defense">
           <h3>Kitty Store: Tower Defense</h3>
         </a>
         <a href="https://kittystoretd.itch.io/kitty-store-tower-defense">
-            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/KSTD.png" width="90%" style="border-radius:5px">
+            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/KSTD.png?raw=true" width="400" style="border-radius:5px">
         </a>
         <br><br>
         2.5D Tower Defense game with resource management. Features multiple turret types and dynamic enemy wayfinding.
@@ -61,7 +82,7 @@
           <h3>Sneak 2 Sleep</h3>
         </a>
         <a href="https://naadish.itch.io/sneak2sleep">
-            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/S2S.png" width="90%" style="border-radius:5px">
+            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/S2S.png?raw=true" width="400" style="border-radius:5px">
         </a>
         <br><br>
         <b>Top 5 Finalist (ITM SLS Game Jam)</b><br>
@@ -78,7 +99,7 @@
           <h3>Pathfinder Visualizer</h3>
         </a>
         <a href="https://naadish.itch.io/pathfinder">
-            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/pathfinder.png" width="90%" style="border-radius:5px">
+            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/pathfinder.png?raw=true" width="400" style="border-radius:5px">
         </a>
         <br><br>
         Visual simulation of search algorithms. Demonstrates the logic of BFS, Dijkstra, and A* pathfinding in a grid.
@@ -92,7 +113,7 @@
           <h3>Sumo Baby</h3>
         </a>
         <a href="https://mudassir1.itch.io/sumo-baby">
-            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/SumoBaby.png" width="90%" style="border-radius:5px">
+            <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/SumoBaby.png?raw=true" width="400" style="border-radius:5px">
         </a>
         <br><br>
         <b>Winner: Global Game Jam 2024 (Mumbai HQ)</b><br>
