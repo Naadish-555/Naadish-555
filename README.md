@@ -32,7 +32,7 @@
         </a>
       </td>
       <td width="33%" align="center" valign="top">
-        <b>Poly Wars: ECS Engine</b>
+        <b>Poly Wars</b>
         <br><br>
         <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/Poly_wars.png" alt="Poly Wars" width="200" style="border-radius:5px">
         <br><br>
