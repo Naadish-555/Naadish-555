@@ -132,7 +132,7 @@
   
   <p>
     <b>Languages</b> <br>
-    <code>C++</code> &nbsp; <code>C#</code> &nbsp; <code>C</code> &nbsp; <code>Python</code>
+    <code>C++</code> &nbsp; <code>C#</code> &nbsp; <code>C</code> &nbsp; <code>Python</code> <code>Java</code>
   </p>
   
   <p>
