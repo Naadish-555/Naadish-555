@@ -43,7 +43,7 @@
         </a>
       </td>
       <td width="33%" align="center" valign="top">
-        <b>Raytracer</b>
+        <b>Hello_Ray</b>
         <br><br>
         <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/Hello_ray.png" alt="Raytracer" width="200" style="border-radius:5px">
         <br><br>
