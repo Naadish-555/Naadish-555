@@ -71,7 +71,7 @@
             <img src="https://github.com/Naadish-555/Naadish-555/blob/main/Resources/KSTD.png?raw=true" width="200" style="border-radius:5px">
         </a>
         <br><br>
-        2.5D Tower Defense game with resource management. Features multiple turret types and dynamic enemy wayfinding.
+        2.5D Tower Defense game with resource management. Features multiple turret types and node based movement.
         <br><br>
         <a href="https://kittystoretd.itch.io/kitty-store-tower-defense">
             <b>▶️ Play on Itch.io</b>
