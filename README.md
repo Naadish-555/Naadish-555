@@ -9,8 +9,7 @@
 
   <p>
     My work centers on building custom simulation engines and interactive systems. <br>
-    I am interested in the intersection of <b>believable agent behavior</b> (Game AI) and <b>visual phenomena</b> (Graphics), <br>
-    leveraging low-level <b>C++</b> and <b>high-performance computing</b> techniques.
+    I am interested in the intersection of <b>believable agent behavior</b> (Game AI) and <b>visual phenomena</b> (Graphics).
   </p>
 
   <br>
