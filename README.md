@@ -136,7 +136,7 @@
   
   <p>
     <b>Engines & Tools</b> <br>
-    <code>Unity</code> &nbsp; <code>SFML</code> &nbsp; <code>Git</code> &nbsp; <code>OpenGL</code>
+    <code>Unity</code> &nbsp; <code>SFML</code> &nbsp; <code>Git</code> 
   </p>
   
   <br><br>
